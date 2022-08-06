@@ -55,5 +55,8 @@ From what information I gathered I can tell that the majority of customers are m
 ## Summary of Challenge:
 Similar to the module we can see that males hold more for customers then females. The times are also similiar with being more busy around the evening around 5-6pm. The busiest day looks like its Thursday and least busiest is Sunday.
 
+## Additional Analysis
+<img width="1257" alt="Screen Shot 2022-08-05 at 11 53 43 PM" src="https://user-images.githubusercontent.com/99035696/183232705-2f665443-c5c5-4356-b4de-fa6c6a358d3e.png">
+<img width="1440" alt="Screen Shot 2022-08-05 at 11 54 54 PM" src="https://user-images.githubusercontent.com/99035696/183232716-997c1fe7-cf30-4dc2-a381-73dfc86ddc03.png">
 
 
