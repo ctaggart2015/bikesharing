@@ -37,19 +37,23 @@ For our data for tableau before we could start we cleaned the data. I used Juypt
 <img width="1440" alt="Screen Shot 2022-08-05 at 8 14 55 PM" src="https://user-images.githubusercontent.com/99035696/183225913-2e58a561-81c3-47a2-93e0-076356e6f0f3.png">
  This is a dashboard ex.
  
-### Summary of module: 
+## Summary of module: 
 From what information I gathered I can tell that the majority of customers are male and that people like to ride more later in the day. 
 
-### Challenge:
+### Challenge: NYC Citibike: Visuals from Deliverable 2
 <img width="1440" alt="Screen Shot 2022-08-05 at 8 45 31 PM" src="https://user-images.githubusercontent.com/99035696/183226878-425b95be-e6aa-4d0b-9944-3cb7dce44ea3.png">
-#### 
+ This graph displays the Checkout Time for Users. It displays a blue line that shows the number of bikes and the minutes that the customer had the bike.
 <img width="1440" alt="Screen Shot 2022-08-05 at 8 45 40 PM" src="https://user-images.githubusercontent.com/99035696/183226881-0936487e-e364-45eb-9eec-5e5c4e3265ef.png">
-####
+ This graph displays the checkout time by gender. The orange represents the males, the blue represents the females, and the red represents the unknown.
 <img width="1440" alt="Screen Shot 2022-08-05 at 8 45 47 PM" src="https://user-images.githubusercontent.com/99035696/183226885-70039153-1105-44da-8022-85d5f601588a.png">
-####
+ This graph represents the Trips by Weekday per Hour. It looks like the busiest time is typically around 5-6pm and the slowest time 10pm-5am. The busiest day Thursday and the slowest day on Sunday.
 <img width="1440" alt="Screen Shot 2022-08-05 at 8 45 55 PM" src="https://user-images.githubusercontent.com/99035696/183226896-ca123f08-2a60-4507-b0b3-922c600b5937.png">
-####
+ This graph represents the trips by Gender per hour. It looks like the busiest times is 8am and 5pm.
 <img width="1440" alt="Screen Shot 2022-08-05 at 8 46 01 PM" src="https://user-images.githubusercontent.com/99035696/183226898-9603a3df-a122-4dc6-9e5f-aa6262a34b14.png">
-####
+ This graph represents User Trips by Gender by Weekday.This graph separates the customers from the subscribers. The customers are all around the same shade of light blue for all days and all genders. bthe subscribers are darkest on the male side with the busiest day on Thursday.
 
-## Summary:
+## Summary of Challenge:
+Similar to the module we can see that males hold more for customers then females. The times are also similiar with being more busy around the evening around 5-6pm. The busiest day looks like its Thursday and least busiest is Sunday.
+
+
+
